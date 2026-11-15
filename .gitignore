@@ -3,6 +3,5 @@
 *.dll
 *.so
 *.dylib
-myapp
 
 .env
